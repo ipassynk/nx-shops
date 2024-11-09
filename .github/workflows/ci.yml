@@ -20,7 +20,7 @@ jobs:
 
       - uses: pnpm/action-setup@v4
 
-      # This enables task distribution via Nx Cloud
+      # This enables task distribution via Nx Cloudxx
       # Run this command as early as possible, before dependencies are installed
       # Learn more at https://nx.dev/ci/reference/nx-cloud-cli#npx-nxcloud-startcirun
       # Connect your workspace by running "nx connect" and uncomment this
